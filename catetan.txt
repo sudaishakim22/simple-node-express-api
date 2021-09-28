@@ -1,0 +1,9 @@
+1. npm init untuk bikin project node
+2. install express --> npm install express --save
+3. didalam index.js import express dan body-parser(untuk menangkap kirimin data POST)
+4. inisialisasi appliaction express menggunakan variable const app
+5. bikin port default untuk appliaction nya
+6. bikin route get dengan app.get()
+7. bikin filder routes yang menampung semua routes dari applikasi, contoh disini menggunakan routes untuk users
+8. Didalam users.js membuat variable const router untuk inisiasi router dari express
+9. 
